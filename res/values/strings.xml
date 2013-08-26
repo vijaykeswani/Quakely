@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quakely</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Relax. No earthquake!</string>
+    <string name="test">Null</string>
+	<string name="send">Quake!</string>
+	<string name="title">QuakeLy</string>
+	<string name="desc"></string>
+</resources>
